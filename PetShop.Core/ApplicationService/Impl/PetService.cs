@@ -23,6 +23,8 @@ namespace PetShop.Core.ApplicationService.Impl
             {
                 Name = name,
                 Type = type,
+
+
                 Birthdate = birthdate,
                 SoldDate = soldDate,
                 Color = color,
